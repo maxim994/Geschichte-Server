@@ -1,5 +1,6 @@
 ﻿import { useEffect, useRef, useState } from "react";
 import type { EventItem, Side } from "../data/events";
+import { asset } from "../utils/asset";
 
 type DetailDrawerProps = {
   event: EventItem | null;
@@ -45,12 +46,6 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
         : [];
 
   const bulletPrefix = /^(?:●|-|\?)\s*/;
-  const resolveImageSrc = (src: string) => {
-    if (src.startsWith("http://") || src.startsWith("https://") || src.startsWith(import.meta.env.BASE_URL)) {
-      return src;
-    }
-    return `${import.meta.env.BASE_URL}${src.replace(/^\/+/, "")}`;
-  };
 
   const isWest = side === "west";
   const panelPositionClass = isWest ? "left-0" : "right-0";
@@ -195,7 +190,7 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
               <p className={`text-sm font-semibold uppercase tracking-wide ${headingToneClass}`}>Bilder</p>
               <div className="mt-2 grid grid-cols-1 gap-4 md:grid-cols-2">
                 {drawerImages.map((img) => {
-                  const imageSrc = resolveImageSrc(img.src);
+                  const imageSrc = asset(img.src);
                   const hasFailed = failedImages.includes(imageSrc);
                   return (
                     <div key={imageSrc}>
@@ -209,7 +204,7 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
                       )}
                       {hasFailed && (
                         <p className="rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-800">
-                          Bilddatei nicht gefunden. Lege die konfigurierte Datei im Ordner `public/images` ab.
+                          Bilddatei nicht gefunden. Lege die konfigurierte Datei im Ordner `images` ab.
                         </p>
                       )}
                       <a

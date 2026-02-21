@@ -1,5 +1,7 @@
+import { asset } from "../utils/asset";
+
 export function PageHeader() {
-  const heroImageSrc = `${import.meta.env.BASE_URL}images/teilung-deutschlands-west-ost-hero.png`;
+  const heroImageSrc = asset("images/teilung-deutschlands-west-ost-hero.png");
 
   return (
     <header className="relative overflow-hidden rounded-3xl border border-white/70 bg-white/86 p-8 shadow-panel backdrop-blur-sm">
