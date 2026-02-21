@@ -31,6 +31,26 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
   }, [open, onClose]);
 
   useEffect(() => {
+    if (!open) {
+      return;
+    }
+
+    const previousOverflow = document.body.style.overflow;
+    const previousPaddingRight = document.body.style.paddingRight;
+    const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+
+    document.body.style.overflow = "hidden";
+    if (scrollbarWidth > 0) {
+      document.body.style.paddingRight = `${scrollbarWidth}px`;
+    }
+
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.body.style.paddingRight = previousPaddingRight;
+    };
+  }, [open]);
+
+  useEffect(() => {
     setFailedImages([]);
   }, [event?.id]);
 
@@ -110,9 +130,9 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
         role="dialog"
         aria-modal="true"
         aria-label={`Vertiefung zu ${event.title}`}
-        className={`fixed ${panelPositionClass} top-0 z-50 h-full w-full md:w-[72vw] md:max-w-[980px] p-6 shadow-2xl transition-transform duration-300 ${drawerToneClass} ${open ? "translate-x-0" : closedTransformClass}`}
+        className={`fixed ${panelPositionClass} top-0 z-50 flex h-[100dvh] max-h-[100dvh] w-full flex-col overflow-hidden p-6 shadow-2xl transition-transform duration-300 md:w-[72vw] md:max-w-[980px] ${drawerToneClass} ${open ? "translate-x-0" : closedTransformClass}`}
       >
-        <div className="flex items-start justify-between gap-4">
+        <div className="flex shrink-0 items-start justify-between gap-4">
           <div>
             <h3 className="mt-1 font-display text-2xl text-slate-900">{event.title}</h3>
             <p className={`text-sm font-semibold uppercase tracking-wide ${headingToneClass}`}>{event.dateLabel}</p>
@@ -128,7 +148,7 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
           </button>
         </div>
 
-        <div className="mt-5 space-y-4 overflow-y-auto pr-1">
+        <div className="mt-5 flex-1 min-h-0 max-h-[85vh] space-y-4 overflow-y-auto overscroll-contain scroll-smooth pr-1">
           <div>
             <p className={`text-sm font-semibold uppercase tracking-wide ${headingToneClass}`}>Vertiefung</p>
             <div className={`mt-2 rounded-lg border px-4 py-3 text-base text-slate-700 ${chipToneClass}`}>
