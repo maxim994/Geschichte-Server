@@ -25,6 +25,7 @@ export type EventItem = {
 };
 
 export const timelineHeightPx = 2050;
+const imagePath = (filename: string) => `${import.meta.env.BASE_URL}images/${filename}`;
 
 export const events: EventItem[] = [
   {
@@ -818,7 +819,7 @@ export const events: EventItem[] = [
       "https://catalog.archives.gov/id/299857"
     ],
     image: {
-      src: "/images/marshall-plan.jpg.png",
+      src: imagePath("marshall-plan.jpg.png"),
       link: "https://www.hdg.de/lemo/bestand/objekt/plakat-erp-marshall-plan.html",
       alt: "Marshall-Plan-Plakat mit Segel aus europaeischen Flaggen"
     }
@@ -839,7 +840,7 @@ export const events: EventItem[] = [
     ],
     sources: ["https://de.wikipedia.org/wiki/Einsatzgruppen-Prozess"],
     image: {
-      src: "/images/einsatzgruppenprozess-otto-ohlendorf.png",
+      src: imagePath("einsatzgruppenprozess-otto-ohlendorf.png"),
       link: "https://museen.nuernberg.de/memorium-nuernberger-prozesse/kalender-details/einsatzgruppenprozess-1058",
       alt: "Otto Ohlendorf im Gerichtssaal waehrend des Einsatzgruppen-Prozesses"
     }
@@ -863,7 +864,7 @@ export const events: EventItem[] = [
       "https://de.wikipedia.org/wiki/N%C3%BCrnberger_%C3%84rzteprozess"
     ],
     image: {
-      src: "/images/aerzteprozess-angeklagte-saal-600.png",
+      src: imagePath("aerzteprozess-angeklagte-saal-600.png"),
       link: "https://museen.nuernberg.de/memorium-nuernberger-prozesse/kalender-details/aerzteprozess-1051",
       alt: "Die Angeklagten im Aerzteprozess auf der Anklagebank im Saal 600"
     }
@@ -911,12 +912,12 @@ export const events: EventItem[] = [
     ],
     images: [
       {
-        src: "/images/waehrungsreform-1948-d-mark.png",
+        src: imagePath("waehrungsreform-1948-d-mark.png"),
         link: "https://www.nn.de/region/erlangen-hoechstadt/wahrungsreform-1948-eine-herzogenauracher-familie-zwischen-not-und-hoffnung-1.13348016",
         alt: "D-Mark Banknote von 1948"
       },
       {
-        src: "/images/waehrungsreform-1948-bankformular.png",
+        src: imagePath("waehrungsreform-1948-bankformular.png"),
         link: "https://de.wikipedia.org/wiki/W%C3%A4hrungsreform_1948_(Westdeutschland)",
         alt: "Bankformular zur Waehrungsreform 1948"
       }
@@ -942,7 +943,7 @@ export const events: EventItem[] = [
       "https://www.hdg.de/lemo/kapitel/nachkriegsjahre/doppelte-staatsgruendung/berlinblockade-1948.html"
     ],
     image: {
-      src: "/images/berlin-blockade-rosinenbomber-tempelhof.png",
+      src: imagePath("berlin-blockade-rosinenbomber-tempelhof.png"),
       link: "https://en.wikipedia.org/wiki/Berlin_Blockade",
       alt: "Berliner beobachten die Landung eines Rosinenbombers auf dem Flughafen Tempelhof"
     }
@@ -1092,7 +1093,7 @@ export const events: EventItem[] = [
     ],
     sources: ["https://www.dhm.de/archiv/ausstellungen/kalter_krieg/zeit/z1949.htm"],
     image: {
-      src: "/images/nato-gruendung-unterzeichnung-1949.png",
+      src: imagePath("nato-gruendung-unterzeichnung-1949.png"),
       link: "https://www1.wdr.de/stichtag/stichtag-nato-gruendung-100.html",
       alt: "Unterzeichnung des Nordatlantikvertrags 1949"
     }
@@ -1115,7 +1116,7 @@ export const events: EventItem[] = [
     ],
     sources: ["https://www.dhm.de/archiv/ausstellungen/kalter_krieg/zeit/z1949.htm"],
     image: {
-      src: "/images/trizone-vollstaendige-entstehung-1949.png",
+      src: imagePath("trizone-vollstaendige-entstehung-1949.png"),
       link: "https://www.spiegel.de/geschichte/kalenderblatt-8-4-1949-a-948240.html",
       alt: "Vertreter der westlichen Besatzungszonen im Kontext der Entstehung der Trizone"
     }
@@ -1137,7 +1138,7 @@ export const events: EventItem[] = [
     ],
     sources: ["https://de.wikipedia.org/wiki/Besatzungsstatut"],
     image: {
-      src: "/images/alliierte-zustimmung-staatsgruendung-1949.png",
+      src: imagePath("alliierte-zustimmung-staatsgruendung-1949.png"),
       link: "https://www.bpb.de/shop/zeitschriften/izpb/deutschland-1945-1949-259/10085/zwei-staatsgruendungen-auf-deutschem-boden/",
       alt: "Alliierte Zustimmung im Kontext der Staatsgruendung in Westdeutschland"
     }
@@ -1193,7 +1194,7 @@ export const events: EventItem[] = [
     ],
     sources: ["https://www.dw.com/en/germanys-constitution-and-its-75-year-history/a-69138700"],
     image: {
-      src: "/images/gruendung-brd-grundgesetz-1949.png",
+      src: imagePath("gruendung-brd-grundgesetz-1949.png"),
       link: "https://www.br.de/radio/bayern2/sendungen/radiowissen/geschichte/grundgesetz-entstehung-verkuendung-100.html",
       alt: "Textpassage aus dem Grundgesetz im Kontext der Gruendung der Bundesrepublik Deutschland"
     }

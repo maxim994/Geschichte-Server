@@ -9,6 +9,8 @@ type TimelineProps = {
 };
 
 type YearValue = 1946 | 1947 | 1948 | 1949;
+const YEAR_VALUES: YearValue[] = [1946, 1947, 1948, 1949];
+
 type TimelineLayout = {
   topById: Map<string, number>;
   yearLabelTop: Record<YearValue, number>;
@@ -108,7 +110,6 @@ function getTimelineSortKey(event: EventItem): number {
 }
 
 function buildTimelineLayout(items: EventItem[], baseHeight: number): TimelineLayout {
-  const years: YearValue[] = [1946, 1947, 1948, 1949];
   const topById = new Map<string, number>();
   const yearLabelTop: Record<YearValue, number> = {
     1946: 0,
@@ -125,7 +126,7 @@ function buildTimelineLayout(items: EventItem[], baseHeight: number): TimelineLa
   const sectionGap = 70;
   let cursor = 0;
 
-  for (const year of years) {
+  for (const year of YEAR_VALUES) {
     const yearEvents = items
       .filter((event) => event.year === year)
       .sort((a, b) => getTimelineSortKey(a) - getTimelineSortKey(b) || a.title.localeCompare(b.title, "de"));
@@ -192,7 +193,7 @@ function buildTimelineLayout(items: EventItem[], baseHeight: number): TimelineLa
 
 export function Timeline({ events, selectedEventId, onSelectEvent }: TimelineProps) {
   const layout = buildTimelineLayout(events, timelineHeightPx);
-  const yearLabels: Array<{ year: YearValue; top: number }> = [1946, 1947, 1948, 1949].map((year) => ({
+  const yearLabels: Array<{ year: YearValue; top: number }> = YEAR_VALUES.map((year) => ({
     year,
     top: layout.yearLabelTop[year]
   }));

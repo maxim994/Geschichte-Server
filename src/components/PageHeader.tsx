@@ -1,4 +1,6 @@
 export function PageHeader() {
+  const heroImageSrc = `${import.meta.env.BASE_URL}images/teilung-deutschlands-west-ost-hero.png`;
+
   return (
     <header className="relative overflow-hidden rounded-3xl border border-white/70 bg-white/86 p-8 shadow-panel backdrop-blur-sm">
       <div
@@ -18,7 +20,7 @@ export function PageHeader() {
         <div className="mt-7 overflow-hidden rounded-2xl border border-white/60 shadow-panel">
           <div className="mx-auto w-[92%] aspect-[15/8] min-h-[360px] max-h-[720px] overflow-hidden">
             <img
-              src="/images/teilung-deutschlands-west-ost-hero.png"
+              src={heroImageSrc}
               alt="Symbolbild zur Teilung Deutschlands zwischen West und Ost"
               className="block h-full w-full object-cover object-center"
             />

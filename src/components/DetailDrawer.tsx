@@ -45,6 +45,12 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
         : [];
 
   const bulletPrefix = /^(?:●|-|\?)\s*/;
+  const resolveImageSrc = (src: string) => {
+    if (src.startsWith("http://") || src.startsWith("https://") || src.startsWith(import.meta.env.BASE_URL)) {
+      return src;
+    }
+    return `${import.meta.env.BASE_URL}${src.replace(/^\/+/, "")}`;
+  };
 
   const isWest = side === "west";
   const panelPositionClass = isWest ? "left-0" : "right-0";
@@ -189,15 +195,16 @@ export function DetailDrawer({ event, side, open, onClose }: DetailDrawerProps) 
               <p className={`text-sm font-semibold uppercase tracking-wide ${headingToneClass}`}>Bilder</p>
               <div className="mt-2 grid grid-cols-1 gap-4 md:grid-cols-2">
                 {drawerImages.map((img) => {
-                  const hasFailed = failedImages.includes(img.src);
+                  const imageSrc = resolveImageSrc(img.src);
+                  const hasFailed = failedImages.includes(imageSrc);
                   return (
-                    <div key={img.src}>
+                    <div key={imageSrc}>
                       {!hasFailed && (
                         <img
-                          src={img.src}
+                          src={imageSrc}
                           alt={img.alt}
                           className="h-[230px] w-full rounded-lg border border-slate-200 object-contain"
-                          onError={() => setFailedImages((prev) => (prev.includes(img.src) ? prev : [...prev, img.src]))}
+                          onError={() => setFailedImages((prev) => (prev.includes(imageSrc) ? prev : [...prev, imageSrc]))}
                         />
                       )}
                       {hasFailed && (
