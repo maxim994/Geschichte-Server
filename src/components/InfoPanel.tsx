@@ -78,11 +78,11 @@ export function InfoPanel({
 
   return (
     <section
-      className={`rounded-3xl border p-7 md:p-8 shadow-panel backdrop-blur-sm md:sticky md:top-6 ${panelToneClass} ${accentClass}`}
+      className={`flex flex-col rounded-3xl border p-7 md:sticky md:top-6 md:max-h-[calc(100dvh-3rem)] md:p-8 shadow-panel backdrop-blur-sm ${panelToneClass} ${accentClass}`}
       aria-label={`${title} Panel`}
     >
       <h2 className={`font-display text-4xl ${titleToneClass}`}>{title}</h2>
-      <div className={`mt-5 rounded-2xl ${contentToneClass} p-6`}>
+      <div className={`mt-5 min-h-0 flex-1 overflow-y-auto overscroll-contain scroll-smooth rounded-2xl ${contentToneClass} p-6`}>
         {!selectedEvent && <p className="text-xl text-slate-600">Waehle ein Ereignis aus.</p>}
 
         {selectedEvent && isRelevantEvent && (
