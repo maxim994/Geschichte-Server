@@ -37,9 +37,43 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 40,
     overview:
-      "Mit der erzwungenen Vereinigung von SPD und KPD zur SED wird in der Sowjetischen\nBesatzungszone die Grundlage für eine zentral gelenkte Einparteienherrschaft\ngeschaffen. Unter sowjetischem Einfluss beginnt der systematische Umbau von Politik\nund Gesellschaft im Sinne eines sozialistischen Systems nach sowjetischem Vorbild.",
+      `Mit der erzwungenen Vereinigung von SPD und KPD zur SED wird in der
+Sowjetischen Besatzungszone die Grundlage für eine zentral gelenkte
+Einparteienherrschaft geschaffen. Unter sowjetischem Einfluss beginnt der
+systematische Umbau von Politik und Gesellschaft im Sinne eines sozialistischen
+Systems nach sowjetischem Vorbild.`,
     details: [
-      "● 1946 werden SPD und KPD in der SBZ zur SED (Sozialistische Einheitspartei Deutschlands) zwangsvereinigt.\n● Die Sowjetunion unterstützt die SED politisch und organisatorisch.\n● Die SED übernimmt zunehmend die Kontrolle über:\n● Verwaltung\n● Polizei\n● Justiz\n● Medien\n● Ziel ist der Aufbau eines sozialistischen Staates nach sowjetischem Vorbild.\nEinordnung:\nDiese Entwicklung ist Teil der beginnenden Systemkonfrontation zwischen Ost und West und ein frühes Zeichen der Blockbildung im Kalten Krieg."
+      `Im April 1946 werden in der Sowjetischen Besatzungszone (SBZ = Gebiet
+Deutschlands unter Kontrolle der Sowjetunion nach dem Zweiten Weltkrieg) die
+Sozialdemokratische Partei Deutschlands (SPD) und die Kommunistische Partei
+Deutschlands (KPD) zur Sozialistischen Einheitspartei Deutschlands (SED)
+zusammengeschlossen.
+Formal wird dieser Zusammenschluss als freiwillige „Einheit der Arbeiterparteien“
+dargestellt. Tatsächlich geschieht er unter massivem politischen Druck der
+sowjetischen Besatzungsmacht. Viele Sozialdemokraten werden eingeschüchtert,
+bedroht oder politisch ausgeschaltet. In den Westzonen findet eine solche
+Vereinigung nicht statt, was zeigt, dass sie nicht aus innerdeutscher Initiative
+entstand, sondern von der Sowjetunion durchgesetzt wurde.
+Warum geschieht das? Die sowjetische Führung wollte verhindern, dass sich in ihrer
+Besatzungszone eine pluralistische Parteienlandschaft mit echter Konkurrenz
+entwickelt. Eine starke sozialdemokratische Partei hätte den kommunistischen
+Einfluss begrenzen können. Durch die Vereinigung entsteht eine dominierende
+Partei, die sich am politischen System der Sowjetunion orientiert.
+In den folgenden Monaten beginnt die SED systematisch, zentrale Bereiche des
+Staates unter ihre Kontrolle zu bringen:
+ Die Verwaltung wird mit parteitreuen Funktionären besetzt.
+ Polizei und Sicherheitsorgane werden politisch ausgerichtet.
+ Die Justiz wird umgebaut, sodass oppositionelle Stimmen leichter verfolgt
+werden können.
+ Medien und Rundfunk geraten unter staatliche Kontrolle, wodurch öffentliche
+Kritik eingeschränkt wird.
+Damit entsteht schrittweise kein demokratisches Mehrparteiensystem, sondern eine
+Einparteienherrschaft, in der die SED die politische Führung monopolisiert. Ziel ist
+der Aufbau eines sozialistischen Staates mit Planwirtschaft und politischer
+Zentralisierung nach sowjetischem Vorbild.
+Einordnung:
+Diese Entwicklung ist Teil der beginnenden Systemkonfrontation zwischen Ost und
+West und ein frühes Zeichen der Blockbildung im Kalten Krieg.`
     ]
   },
   {
@@ -52,9 +86,30 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 280,
     overview:
-      "Mit der Truman-Doktrin formulieren die USA offiziell ihre Containment-Politik und\npositionieren sich als Schutzmacht gegen die Ausbreitung des Kommunismus. Damit\nwird die weltpolitische Systemkonfrontation zwischen liberaler Demokratie und\nSozialismus offen ausgesprochen und verschärft.",
+      `Mit der Truman-Doktrin formulieren die USA offiziell ihre Containment-Politik und
+positionieren sich als Schutzmacht gegen die Ausbreitung des Kommunismus. Damit
+wird die weltpolitische Systemkonfrontation zwischen liberaler Demokratie und
+Sozialismus offen ausgesprochen und verschärft.`,
     details: [
-      "● Präsident Truman verspricht wirtschaftliche und militärische Hilfe für gefährdete Staaten.\n● Ziel: Eindämmung des Kommunismus („Containment-Politik“).\n● Die Sowjetunion wertet dies als Angriff auf ihren Einflussbereich.\nFolge für die Ostzone:\n● stärkere politische Abgrenzung vom Westen\n● beschleunigter Aufbau eines sozialistischen Staates"
+      `Am 12. März 1947 erklärt der amerikanische Präsident Harry S. Truman vor dem
+Kongress, dass die Vereinigten Staaten von Amerika (USA) künftig allen Staaten
+Hilfe leisten würden, die von kommunistischer Einflussnahme bedroht seien. Konkret
+ging es zunächst um Griechenland und die Türkei, doch die Grundsatzerklärung
+hatte weltweite Bedeutung.
+Diese Politik wird später als „Containment“ (Eindämmung) bezeichnet. Das Ziel
+bestand nicht darin, den Kommunismus militärisch anzugreifen, sondern seine
+weitere Ausbreitung zu verhindern.
+Warum war das entscheidend? Mit dieser Rede wird die Gegnerschaft zwischen den
+USA und der Sowjetunion erstmals offen formuliert. Die Welt teilt sich zunehmend in
+zwei Machtblöcke: einen westlichen Block unter Führung der USA und einen
+östlichen Block unter Führung der Sowjetunion.
+Die sowjetische Führung interpretiert diese Doktrin als direkten Angriff auf ihren
+Einflussbereich in Osteuropa. In der Folge verstärkt sie ihre Kontrolle über die
+osteuropäischen Staaten – darunter auch die Sowjetische Besatzungszone in
+Deutschland.
+Folge für die Ostzone:
+Die politische und wirtschaftliche Abgrenzung vom Westen wird beschleunigt. Der
+Aufbau eines eigenständigen sozialistischen Systems erhält zusätzliche Dringlichkeit.`
     ]
   },
   {
@@ -67,9 +122,24 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 320,
     overview:
-      "Der Marshall-Plan dient nicht nur dem wirtschaftlichen Wiederaufbau Westeuropas,\nsondern stärkt zugleich die politische Bindung der westlichen Staaten an die USA.\nDadurch vertieft sich die wirtschaftliche und ideologische Spaltung Europas.",
+      `Der Marshall-Plan dient nicht nur dem wirtschaftlichen Wiederaufbau Westeuropas,
+sondern stärkt zugleich die politische Bindung der westlichen Staaten an die USA.
+Dadurch vertieft sich die wirtschaftliche und ideologische Spaltung Europas.`,
     details: [
-      "● Wirtschaftliche Hilfe zum Wiederaufbau nach dem Zweiten Weltkrieg.\n● Die Sowjetunion lehnt die Teilnahme ab.\n● Der Ostzone wird die Teilnahme ausdrücklich verboten.\nFolgen für die spätere DDR:\n● wirtschaftliche Trennung von Ost und West\n● Beginn einer eigenständigen sozialistischen Planwirtschaft"
+      `Im Juni 1947 kündigt der amerikanische Außenminister George C. Marshall ein
+umfassendes Wiederaufbauprogramm für das zerstörte Europa an. Ziel ist es, die
+wirtschaftliche Not nach dem Zweiten Weltkrieg zu lindern und politische Instabilität
+zu verhindern.
+Warum war wirtschaftliche Hilfe politisch relevant? Die USA befürchteten, dass Armut
+und Arbeitslosigkeit kommunistische Bewegungen stärken könnten. Wirtschaftliche
+Stabilität sollte also zugleich die Demokratie sichern.
+Die Sowjetunion lehnt eine Teilnahme ab, da sie darin einen Versuch der USA sieht,
+politischen Einfluss in Osteuropa zu gewinnen. Auch der Sowjetischen
+Besatzungszone wird die Teilnahme untersagt.
+Die Folge ist eine zunehmende wirtschaftliche Spaltung: Während die Westzonen
+vom amerikanischen Kapital profitieren, wird im Osten eine sozialistische
+Planwirtschaft aufgebaut. Produktion, Preise und Verteilung werden staatlich gelenkt.
+Damit vertieft sich die strukturelle Trennung Deutschlands.`
     ]
   },
   {
@@ -82,9 +152,24 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 1455,
     overview:
-      "Die Einführung unterschiedlicher Währungen in Ost- und Westdeutschland markiert\neinen entscheidenden Schritt zur wirtschaftlichen und politischen Teilung\nDeutschlands. Sie verstärkt die Integration der Westzonen in das westliche\nWirtschaftssystem und zwingt die SBZ zu einer klaren Abgrenzung.",
+      `Die Einführung unterschiedlicher Währungen in Ost- und Westdeutschland markiert
+einen entscheidenden Schritt zur wirtschaftlichen und politischen Teilung
+Deutschlands. Sie verstärkt die Integration der Westzonen in das westliche
+Wirtschaftssystem und zwingt die SBZ zu einer klaren Abgrenzung.`,
     details: [
-      "● In den Westzonen wird die Deutsche Mark (DM) eingeführt.\n● Die Sowjetische Besatzungszone reagiert mit der Einführung der Ostmark.\n● Ziel im Westen: wirtschaftliche Stabilisierung.\n● Reaktion im Osten: Schutz des eigenen Wirtschaftsraumes.\nBedeutung:\n● wirtschaftliche Spaltung Deutschlands wird unumkehrbar\n● klare Trennung zwischen kapitalistischem Westen und sozialistischem Osten"
+      `Nach dem Krieg leidet Deutschland unter Inflation, Schwarzmarkt und
+wirtschaftlichem Chaos. Um die Wirtschaft zu stabilisieren, führen die westlichen
+Besatzungsmächte im Juni 1948 in ihren Zonen die Deutsche Mark ein.
+Warum war das politisch brisant? Eine stabile Währung ist die Grundlage für
+funktionierenden Handel und wirtschaftlichen Aufschwung. Mit der Einführung der
+Deutschen Mark wird der wirtschaftliche Wiederaufbau im Westen gezielt
+vorangetrieben.
+Die Sowjetunion sieht darin einen einseitigen Schritt zur Gründung eines
+westdeutschen Staates. Als Reaktion führt sie in ihrer Besatzungszone eine eigene
+Währung ein.
+Damit existieren erstmals zwei getrennte Wirtschaftsordnungen in Deutschland. Die
+wirtschaftliche Einheit des Landes ist faktisch beendet. Diese Entwicklung macht die
+spätere staatliche Teilung nahezu unvermeidlich.`
     ]
   },
   {
@@ -97,9 +182,21 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 1515,
     overview:
-      "Die Berlin-Blockade stellt die erste offene Konfrontation der Supermächte im Kalten\nKrieg dar. Sie verdeutlicht die strategische Bedeutung Berlins und führt zu einer weiteren\nVerhärtung der Fronten zwischen Ost und West.",
+      `Die Berlin-Blockade stellt die erste offene Konfrontation der Supermächte im Kalten
+Krieg dar. Sie verdeutlicht die strategische Bedeutung Berlins und führt zu einer
+weiteren Verhärtung der Fronten zwischen Ost und West.`,
     details: [
-      "● Blockade aller Land- und Wasserwege nach West-Berlin.\n● Ziel: Aufgabe der Währungsreform rückgängig machen und Druck auf die Westmächte ausüben.\n● Die Westmächte organisieren die Berliner Luftbrücke zur Versorgung der Stadt.\n● Die Blockade wird 1949 beendet.\nErgebnis:\n● Die Blockade scheitert.\n● Die Fronten im Kalten Krieg verhärten sich weiter."
+      `West-Berlin liegt geografisch mitten in der Sowjetischen Besatzungszone, steht
+jedoch unter Kontrolle der Westmächte. Nach der Währungsreform sperrt die
+Sowjetunion alle Land- und Wasserwege nach West-Berlin.
+Warum? Ziel war es, die Westmächte zum Verzicht auf die Deutsche Mark in Berlin
+zu zwingen und ihren Einfluss zurückzudrängen.
+Die USA, Großbritannien und Frankreich reagieren nicht militärisch, sondern
+organisieren eine Luftbrücke. Flugzeuge versorgen die Bevölkerung fast ein Jahr
+lang mit Lebensmitteln und Kohle.
+Die Blockade scheitert im Mai 1949. Politisch hat sie jedoch massive Folgen: Das
+Vertrauen zwischen den ehemaligen Alliierten ist endgültig zerstört. Die Spaltung
+Deutschlands verfestigt sich weiter.`
     ]
   },
   {
@@ -112,9 +209,45 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 520,
     overview:
-      "Mit der Volkskongressbewegung schafft die SED den politischen Rahmen für eine\nscheinbar demokratische Legitimation der Staatsgründung. Tatsächlich dient sie der\ninstitutionellen Vorbereitung eines sozialistischen Staates unter alleiniger Führung der\nSED.",
+      `Zwischen 1947 und 1949 fanden insgesamt drei Deutsche Volkskongresse statt
+Sie wurden von der Sozialistischen Einheitspartei Deutschlands (SED) organisiert
+und sollten den Anspruch vertreten, für ganz Deutschland zu sprechen.
+Erster Deutscher Volkskongress für Einheit und gerechten Frieden
+→ 6.–7. Dezember 1947 (Berlin)
+ Auftakt der Bewegung
+ Reaktion auf das Scheitern der Londoner Außenministerkonferenz 1947
+ Anspruch, für ganz Deutschland zu sprechen
+Zweiter Deutscher Volkskongress
+→ 17.–18. März 1948 (Berlin)
+ Beschluss zur Einsetzung des „Deutschen Volksrates“
+ Beginn konkreter Arbeiten an einer Verfassung
+Dritter Deutscher Volkskongress
+→ 29.–30. Mai 1949 (Berlin)
+ Annahme der ausgearbeiteten Verfassung
+ Umwandlung des Volksrates in die „Provisorische Volkskammer“
+ Direkte Vorbereitung der Staatsgründung am 7. Oktober 1949`,
     details: [
-      "● Die Bewegung soll demokratisch wirken.\n● In Wirklichkeit wird die politische Macht der SED abgesichert.\n● Vorbereitung einer eigenen Verfassung und Staatsstruktur."
+      `Die Volkskongresse werden von der Sozialistischen Einheitspartei Deutschlands
+(SED) organisiert, um den Eindruck zu erwecken, die Bevölkerung der Sowjetischen
+Besatzungszone fordere eigenständig einen gesamtdeutschen Staat. Offiziell treten
+die Kongresse als überparteiliche und gesamtdeutsche Vertretung auf.
+Auch Vertreter aus den westlichen Besatzungszonen werden eingeladen. Diese
+Einladungen haben jedoch vor allem symbolischen Charakter. Da die politischen
+Rahmenbedingungen in Ost und West grundlegend verschieden sind und die
+Westmächte eine Teilnahme ablehnen, dient die Einladung in erster Linie dazu, nach
+außen den Anspruch auf Gesamtdeutschland zu unterstreichen und die eigene
+Politik als einheitsorientiert darzustellen.
+Die Delegierten innerhalb der Sowjetischen Besatzungszone werden zwar formal
+gewählt, jedoch nicht in freien und gleichen Wahlen nach demokratischen Standards.
+Die Kandidatenlisten sind stark von der SED beeinflusst, sodass die politische
+Mehrheit von Beginn an gesichert ist.
+Aus dem Volkskongress geht der sogenannte Deutsche Volksrat hervor. Dieses
+Gremium erarbeitet eine Verfassung, die später nahezu unverändert zur Grundlage
+der Staatsgründung der Deutschen Demokratischen Republik wird.
+Die Volkskongressbewegung dient somit weniger echter demokratischer
+Mitbestimmung als vielmehr der politischen Vorbereitung und propagandistischen
+Legitimation einer bereits strategisch geplanten Staatsgründung unter Führung der
+SED.`
     ]
   },
   {
@@ -613,9 +746,22 @@ export const events: EventItem[] = [
     createdBy: "Elmar, Lennox, Alex",
     positionPx: 2095,
     overview:
-      "Als Reaktion auf die westdeutsche Staatsgründung wird in der Sowjetischen\nBesatzungszone die DDR etabliert. Sie versteht sich als sozialistischer Gegenentwurf zur\nBundesrepublik und ist fest in das sowjetische Bündnissystem eingebunden.",
+      `Als Reaktion auf die westdeutsche Staatsgründung wird in der Sowjetischen
+Besatzungszone die DDR etabliert. Sie versteht sich als sozialistischer Gegenentwurf
+zur Bundesrepublik und ist fest in das sowjetische Bündnissystem eingebunden.`,
     details: [
-      "● Offizielle Staatsgründung der DDR.\n● Einführung einer sozialistischen Planwirtschaft.\n● Führungsrolle der SED wird politisch festgeschrieben.\n● Enge politische und militärische Bindung an die Sowjetunion.\nEinordnung:\nDie DDR ist ein direktes Ergebnis der zunehmenden Blockbildung und ein zentraler Bestandteil der bipolaren Weltordnung des Kalten Krieges."
+      `Am 7. Oktober 1949 wird die Deutsche Demokratische Republik gegründet.
+Grundlage ist die zuvor vom Volksrat ausgearbeitete Verfassung.
+Die politische Führung liegt faktisch bei der Sozialistischen Einheitspartei
+Deutschlands. Zwar existieren weitere Parteien, doch sie sind in einem sogenannten
+„Blocksystem“ organisiert und der SED untergeordnet.
+Wirtschaftlich wird eine sozialistische Planwirtschaft eingeführt: Produktionsziele,
+Preise und Investitionen werden zentral staatlich festgelegt.
+Politisch und militärisch ist die DDR eng an die Sowjetunion gebunden. Damit ist die
+deutsche Teilung vollzogen.
+Einordnung:
+Die DDR ist ein direktes Ergebnis der zunehmenden Blockbildung und ein zentraler
+Bestandteil der bipolaren Weltordnung des Kalten Krieges.`
     ],
     sources: [
       "https://www.britannica.com/event/Cold-War?",
