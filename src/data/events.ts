@@ -957,8 +957,15 @@ export const events: EventItem[] = [
     positionPx: 1520,
     overview: "Berliner Luftbrücke (Operation Vittles / brit. Operation Plainfare)",
     details: [
-      "Beginn der alliierte Versorgung West-Berlins aus der Luft -> schnelle Organisation von Flugversorgungen (Lebensmittel, Kohle, Medikamente)",
-      "symbolische und praktische Unterstützung West-Berlins -> Verstärkung des Vertrauens der Westberliner in die Westmächte; erste direkte Konfrontation des Kalten Krieges in Deutschland."
+      "USA (Operation Vittles) und Großbritannien (Operation Plainfare) starten Luftversorgung",
+      "Täglich tausende Tonnen Lebensmittel, Kohle und Medikamente",
+      "Flugzeuge landen im Minutentakt in Tempelhof und Gatow",
+      "Höhepunkt: bis zu 8.000 Tonnen Versorgung pro Tag",
+      "Große Solidarität der Bevölkerung („Rosinenbomber“)",
+      "Propagandistischer Erfolg für den Westen",
+      "Sowjetunion scheitert mit Blockade-Strategie",
+      "Westbindung der Bevölkerung wird emotional gestärkt",
+      "Berlin wird Symbol für Freiheit und Widerstand gegen Kommunismus"
     ]
   },
   {
@@ -971,8 +978,12 @@ export const events: EventItem[] = [
     positionPx: 1550,
     overview: "Übergabe der Frankfurter Dokumente (auf Grundlage der Londoner Empfehlungen)",
     details: [
-      "an die Ministerpräsidenten der westdeutschen Länder -> Auftrag der Westalliierten: Einberufung einer verfassungsgebenden Versammlung / Vorbereitung eines westdeutschen Staates",
-      "Beginn formaler Schritte zur politischen Neuordnung (erste Grundlage für späteren Parlamentarischen Rat / Grundgesetz)."
+      "Westalliierten (USA, Großbritannien, Frankreich) fordern offiziell die Bildung eines westdeutschen Staates",
+      "Auftrag an die Ministerpräsidenten: Ausarbeitung einer demokratischen Verfassung",
+      "Vorgaben: föderaler Staat, Grundrechte, Gewaltenteilung",
+      "Staat soll provisorischen Charakter haben (wegen deutscher Einheit)",
+      "Politischer Startpunkt der BRD-Gründung",
+      "Deutlicher Schritt zur institutionellen Spaltung Deutschlands"
     ]
   },
   {
@@ -985,7 +996,13 @@ export const events: EventItem[] = [
     positionPx: 1580,
     overview: "Besprechungen der Länderchefs (z. B. Koblenz / Rittersturz) über die Frankfurter Dokumente",
     details: [
-      "Widerstände bei Länderchefs (Angst vor dauerhafter Spaltung), aber Druck der Alliierten erzwingt Vorbereitungen zur Staatsgründung."
+      "Ministerpräsidenten beraten über Umsetzung der Frankfurter Dokumente",
+      "Ablehnung einer endgültigen Staatsgründung → Wunsch nach Wiedervereinigung bleibt bestehen",
+      "Zustimmung zu einem „provisorischen Staat“",
+      "Entscheidung für den Begriff „Grundgesetz“ statt „Verfassung“",
+      "Betonung des Übergangscharakters",
+      "Politischer Kompromiss zwischen Westintegration und Einheitsanspruch",
+      "Legt Grundstein für spätere Struktur der BRD"
     ]
   },
   {
@@ -998,7 +1015,14 @@ export const events: EventItem[] = [
     positionPx: 1610,
     overview: "Verfassungskonvent auf Herrenchiemsee (Verfassungsentwurf als Arbeitsgrundlage)",
     details: [
-      "Expertengremium der Länder erarbeitet einen umfassenden Verfassungsentwurf (Herrenchiemsee-Bericht) — wichtige Grundlage fürs spätere Grundgesetz."
+      "Juristen und Verfassungsexperten entwerfen Grundstruktur des neuen Staates",
+      "Lehren aus Scheitern der Weimarer Republik werden berücksichtigt",
+      "Stärkung der Regierung (Bundeskanzlerprinzip)",
+      "Einführung des konstruktiven Misstrauensvotums",
+      "Klare Gewaltenteilung: Legislative, Exekutive, Judikative",
+      "Starke Stellung der Grundrechte",
+      "Föderale Struktur mit starken Bundesländern",
+      "Entwurf dient als direkte Arbeitsgrundlage für Parlamentarischen Rat"
     ]
   },
   {
@@ -1011,8 +1035,13 @@ export const events: EventItem[] = [
     positionPx: 1640,
     overview: "Bildung und Konstituierung des Parlamentarischen Rats (Konstituierung: 1. Sept. 1948)",
     details: [
-      "65 von den Länderparlamenten gewählte Abgeordnete treffen sich in Bonn, Auftrag: Ausarbeitung des Grundgesetzes (provisorische Verfassung für Westdeutschland)",
-      "politischer Schritt zur Staatsgründung auf dem Gebiet der drei Westzonen."
+      "65 Abgeordnete aus den westdeutschen Ländern treten zusammen",
+      "Vorsitz: Konrad Adenauer",
+      "Aufgabe: Ausarbeitung und Verabschiedung des Grundgesetzes",
+      "Intensive Debatten über Staatsstruktur, Grundrechte, Bundesrat, Kanzlerrolle",
+      "Bonn wird politisches Zentrum der Westzonen",
+      "Demokratische Parteien gestalten aktiv die Zukunft Westdeutschlands",
+      "De-facto-Beginn der staatlichen Organisation der BRD"
     ]
   },
   {
@@ -1025,8 +1054,13 @@ export const events: EventItem[] = [
     positionPx: 1135,
     overview: "Gründung der OEEC (Organisation for European Economic Co-operation)",
     details: [
-      "Organisationsforum zur Verteilung der Marshall-Plan-Hilfen an westeuropäische Staaten",
-      "Ziel: wirtschaftliche Zusammenarbeit, Wiederaufbau und Koordination der Hilfen."
+      "Zusammenschluss westeuropäischer Staaten zur Verwaltung der Marshallplan-Hilfen der USA",
+      "Ziel: Koordination des Wiederaufbaus, Modernisierung der Industrie, Steigerung von Produktion und Handel",
+      "Förderung des freien Handels zwischen den westeuropäischen Staaten",
+      "Westzonen Deutschlands werden wirtschaftlich in das westliche Bündnissystem eingebunden",
+      "Beginn der wirtschaftlichen Westintegration als Gegenmodell zur sowjetischen Planwirtschaft",
+      "Stärkung marktwirtschaftlicher Prinzipien (Privateigentum, Wettbewerb, Leistungsprinzip)",
+      "Politisches Signal: Westdeutschland gehört wirtschaftlich zum westlichen Block"
     ]
   },
   {
@@ -1039,9 +1073,15 @@ export const events: EventItem[] = [
     positionPx: 1465,
     overview: "Währungsreform in den Westzonen — Einführung der Deutschen Mark (DM)",
     details: [
-      "\"Kopfgeld\" am 20. Juni, ab 21. Juni alleiniges Zahlungsmittel in den Westzonen",
-      "Ziel: Beseitigung der Hyperinflation/Schwarzmarkt-Strukturen, Stabilisierung der Wirtschaft (wichtiger Schritt zur wirtschaftlichen Erholung).",
-      "Ludwig Erhard / Wirtschaftsverwaltung der Westzonen maßgeblich beteiligt; Grundlage für spätere wirtschaftliche Erholung."
+      "Alte Reichsmark verliert ihre Gültigkeit → Einführung einer stabilen neuen Währung",
+      "Jeder Bürger erhält ein „Kopfgeld“ (Startkapital) von 40 DM",
+      "Bargeldumtausch im Verhältnis 10:1, Sparguthaben stark entwertet → soziale Spannungen",
+      "Ziel: Bekämpfung von Inflation, Schwarzmarkt und Warenknappheit",
+      "Geschäfte füllen sich innerhalb weniger Tage mit Waren → Produktion lohnt sich wieder",
+      "Ludwig Erhard hebt gleichzeitig viele Preisbindungen auf → Beginn marktwirtschaftlicher Ordnung",
+      "Grundlage für die spätere „Soziale Marktwirtschaft“",
+      "Wirtschaftliche Erholung wird sichtbar → Vertrauen in neues System wächst",
+      "Führt direkt zur Verschärfung des Konflikts mit der Sowjetunion"
     ]
   },
   {
@@ -1054,8 +1094,33 @@ export const events: EventItem[] = [
     positionPx: 1485,
     overview: "Beginn der Berliner Blockade (Sowjetische Maßnahme: Sperrung der Land-, Schienen- und Wasserwege nach West-Berlin)",
     details: [
-      "Reaktion auf die Währungsreform und politische Eskalation im Ost-West-Konflikt",
-      "Westsektoren Berlins von der Versorgung abgeschnitten — harte politische Zuspitzung."
+      "Sowjetunion sperrt sämtliche Land- und Wasserwege nach West-Berlin",
+      "Stromversorgung teilweise unterbrochen",
+      "Ziel: Druck auf Westmächte ausüben und Gründung eines westdeutschen Staates verhindern",
+      "Versuch, West-Berlin in die sowjetische Einflusszone zu zwingen",
+      "Erste große direkte Krise des Kalten Krieges",
+      "West-Berlin wird zum Symbol des Ost-West-Konflikts",
+      "Deutliche Verschärfung der deutschen Teilung"
+    ]
+  },
+  {
+    id: "wirtschaftliche-gesellschaftliche-folgen-waehrungsreform-1948-sommer-herbst",
+    year: 1948,
+    dateLabel: "Sommer/Herbst 1948",
+    side: "west",
+    title: "Wirtschaftliche und gesellschaftliche Folgen der Währungsreform",
+    createdBy: "Johannes",
+    positionPx: 1645,
+    overview: "Wirtschaftliche und gesellschaftliche Folgen der Währungsreform",
+    details: [
+      "Produktion steigt deutlich an → Unternehmen investieren wieder",
+      "Ende des Tauschhandels und Schwarzmarktes",
+      "Wiederbelebung von Handel und Konsum",
+      "Arbeitsmotivation steigt durch stabile Löhne",
+      "Soziale Spannungen durch Vermögensverluste und Neuanfang",
+      "Entstehung neuer Mittelschicht",
+      "Vertrauen in Demokratie und Marktwirtschaft wächst",
+      "Beginn des langfristigen wirtschaftlichen Aufschwungs"
     ]
   },
   {
@@ -1068,9 +1133,13 @@ export const events: EventItem[] = [
     positionPx: 1650,
     overview: "Gesellschaftliche und politische Festigung der Westintegration",
     details: [
-      "Westdeutsche Bevölkerung orientiert sich zunehmend an den Westmächten (USA, Großbritannien, Frankreich) -> Luftbrücke stärkt Vertrauen in den Westen und demokratische Strukturen",
-      "Abgrenzung zur Sowjetunion wird im Alltag spürbar (Medien, Politik, Wirtschaft) -> Kalter Krieg prägt nun dauerhaft Denken und Handeln in den Westzonen -> Deutsche Teilung wird gesellschaftlich immer mehr akzeptiert (wenn auch widerwillig)",
-      "Wirtschaftlich-gesellschaftliche Folge (Mitte–Ende 1948): -> kurzfristig: Versorgungsengpässe, Unsicherheit durch Blockade; aber Währungsreform reduziert Schwarzmarkt, stimuliert Produktion und Handel. -> mittelfristig: Grundlagen für wirtschaftliche Erholung (Wegbereiter für spätere Soziale Marktwirtschaft / Wirtschaftswunder)."
+      "Bevölkerung identifiziert sich zunehmend mit westlichem Demokratie-Modell",
+      "Antikommunistische Haltung verbreitet sich stärker",
+      "Parteien, Gewerkschaften und Medien fest im westlichen System verankert",
+      "Kalter Krieg prägt politische Debatten",
+      "Spaltung Deutschlands wird gesellschaftliche Realität",
+      "Westdeutsche Identität beginnt sich herauszubilden",
+      "Vorbereitung auf endgültige Staatsgründung 1949"
     ]
   },
   {
