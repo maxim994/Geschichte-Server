@@ -950,7 +950,7 @@ Bestandteil der bipolaren Weltordnung des Kalten Krieges.`
     dateLabel: "2. Februar 1948",
     side: "west",
     title: "Der zweite Wirtschaftsrat der Bizone tritt in Frankfurt am Main zusammen.",
-    createdBy: "Codex",
+    createdBy: "Lorelei",
     positionPx: 540,
     overview:
       `Am 2. Februar 1948 trat in Frankfurt der zweite Wirtschaftsrat der Bizone zusammen.
@@ -982,7 +982,7 @@ Der Wirtschaftsrat war wichtig, weil er:
     dateLabel: "19. Februar 1948",
     side: "west",
     title: "In Nürnberg ergehen im Prozess gegen die so genannten Süd-Ost-Generale wegen Kriegsverbrechen",
-    createdBy: "Codex",
+    createdBy: "Lorelei",
     positionPx: 570,
     overview:
       `Am 19. Februar 1948 verkündete ein amerikanisches Militärgericht in Nürnberg im Prozess
@@ -1024,7 +1024,7 @@ Der Prozess war wichtig, weil er:
     dateLabel: "1. März 1948",
     side: "west",
     title: "In Frankfurt am Main nimmt die Bank deutscher Länder ihre Arbeit auf.",
-    createdBy: "Codex",
+    createdBy: "Lorelei",
     positionPx: 600,
     overview:
       `Am 1. März 1948 begann in Frankfurt am Main die Bank deutscher Länder ihre Arbeit. Sie
@@ -1062,7 +1062,7 @@ Die Bank deutscher Länder spielte eine zentrale Rolle beim wirtschaftlichen Wie
     dateLabel: "20. März 1948",
     side: "west",
     title: "Der regierende Alliierte Kontrollrat kommt das letzte Mal zusammen",
-    createdBy: "Codex",
+    createdBy: "Lorelei",
     positionPx: 630,
     overview:
       `Am 20. März 1948 verließ die Sowjetunion den Alliierten Kontrollrat, weil sie sich durch

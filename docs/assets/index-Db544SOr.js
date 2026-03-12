@@ -287,7 +287,7 @@ Reaktion auf gescheiterte Londoner Konferenz`,details:[`Politik: Erste gesamtdeu
 Kalter Krieg: Zeigt politische Frontstellung Ost/West deutlich
 Gesellschaft: Steigende politische Mobilisierung, besonders im Osten`]},{id:"vorbereitung-wirtschafts-waehrungsreform-1947-12",year:1947,dateLabel:"Dezember 1947",side:"west",title:"Vorbereitung der Wirtschafts- und Währungsreform",createdBy:"Jakob",positionPx:510,overview:`Westmächte planen Einführung stabiler Währung in Westzonen (D-Mark 1948)
 Ziel: Inflation bekämpfen, Schwarzmarkt eindämmen, Wirtschaft auf marktwirtschaftliche Basis stellen`,details:[`Politik: Westdeutsche Strukturen wachsen → Vorstufe Bundesrepublik
-Kalter Krieg: Unterschiedliche wirtschaftliche Konzepte zwischen West und Ost werden klar`]},{id:"zweiter-wirtschaftsrat-bizone-1948-02-02",year:1948,dateLabel:"2. Februar 1948",side:"west",title:"Der zweite Wirtschaftsrat der Bizone tritt in Frankfurt am Main zusammen.",createdBy:"Codex",positionPx:540,overview:`Am 2. Februar 1948 trat in Frankfurt der zweite Wirtschaftsrat der Bizone zusammen.
+Kalter Krieg: Unterschiedliche wirtschaftliche Konzepte zwischen West und Ost werden klar`]},{id:"zweiter-wirtschaftsrat-bizone-1948-02-02",year:1948,dateLabel:"2. Februar 1948",side:"west",title:"Der zweite Wirtschaftsrat der Bizone tritt in Frankfurt am Main zusammen.",createdBy:"Lorelei",positionPx:540,overview:`Am 2. Februar 1948 trat in Frankfurt der zweite Wirtschaftsrat der Bizone zusammen.
 Dieses Gremium mit 104 Vertretern, vor allem aus SPD und CDU/CSU, fungierte als
 wirtschaftliches Parlament der amerikanischen und britischen Besatzungszone und spielte
 eine wichtige Rolle beim Wiederaufbau und bei der Vorbereitung der späteren
@@ -305,7 +305,7 @@ Der Wirtschaftsrat war wichtig, weil er:
 • erste demokratische Entscheidungsstrukturen in den westlichen Besatzungszonen schuf,
 • wirtschaftliche Reformen vorbereitete,
 • den Weg zur Währungsreform von 1948 ebnete,
-• und ein politischer Vorläufer des späteren Bundestages wurde.`]},{id:"nuernberg-prozess-sued-ost-generale-1948-02-19",year:1948,dateLabel:"19. Februar 1948",side:"west",title:"In Nürnberg ergehen im Prozess gegen die so genannten Süd-Ost-Generale wegen Kriegsverbrechen",createdBy:"Codex",positionPx:570,overview:`Am 19. Februar 1948 verkündete ein amerikanisches Militärgericht in Nürnberg im Prozess
+• und ein politischer Vorläufer des späteren Bundestages wurde.`]},{id:"nuernberg-prozess-sued-ost-generale-1948-02-19",year:1948,dateLabel:"19. Februar 1948",side:"west",title:"In Nürnberg ergehen im Prozess gegen die so genannten Süd-Ost-Generale wegen Kriegsverbrechen",createdBy:"Lorelei",positionPx:570,overview:`Am 19. Februar 1948 verkündete ein amerikanisches Militärgericht in Nürnberg im Prozess
 gegen mehrere deutsche Generäle („Südost-Generale“) die Urteile. Sie wurden wegen
 Kriegsverbrechen auf dem Balkan, vor allem Geiselerschießungen und Gewalt gegen
 Zivilisten, zu teilweise lebenslangen Haftstrafen verurteilt. Der Prozess war Teil der
@@ -333,7 +333,7 @@ Viele Strafen wurden allerdings in den frühen 1950er-Jahren aus politischen Gr�
 Bedeutung:
 Der Prozess war wichtig, weil er:
 • zeigte, dass auch Militärführer für Kriegsverbrechen verantwortlich gemacht werden können,
-• die Erschießung von Geiseln und Vergeltungsaktionen gegen Zivilisten klar als`]},{id:"bank-deutscher-laender-1948-03-01",year:1948,dateLabel:"1. März 1948",side:"west",title:"In Frankfurt am Main nimmt die Bank deutscher Länder ihre Arbeit auf.",createdBy:"Codex",positionPx:600,overview:`Am 1. März 1948 begann in Frankfurt am Main die Bank deutscher Länder ihre Arbeit. Sie
+• die Erschießung von Geiseln und Vergeltungsaktionen gegen Zivilisten klar als`]},{id:"bank-deutscher-laender-1948-03-01",year:1948,dateLabel:"1. März 1948",side:"west",title:"In Frankfurt am Main nimmt die Bank deutscher Länder ihre Arbeit auf.",createdBy:"Lorelei",positionPx:600,overview:`Am 1. März 1948 begann in Frankfurt am Main die Bank deutscher Länder ihre Arbeit. Sie
 fungierte als zentrale Notenbank der westlichen Besatzungszonen, organisierte das
 Geldsystem und bereitete die Währungsreform vor. Ab 25. März 1948 war sie auch für die
 französische Zone zuständig und wurde später zum Vorläufer der Deutschen Bundesbank.`,details:[`Vertiefung:
@@ -357,7 +357,7 @@ Am 25. März 1948 wurde ihre Zuständigkeit auch auf die Französische Besatzung
 
 Bedeutung:
 Die Bank deutscher Länder spielte eine zentrale Rolle beim wirtschaftlichen Wiederaufbau und war ein wichtiger Schritt hin zur späteren westdeutschen Staatsgründung.
-1957 ging sie schließlich in der neuen deutschen Zentralbank auf: der Deutsche Bundesbank.`]},{id:"alliierter-kontrollrat-letzte-sitzung-1948-03-20",year:1948,dateLabel:"20. März 1948",side:"west",title:"Der regierende Alliierte Kontrollrat kommt das letzte Mal zusammen",createdBy:"Codex",positionPx:630,overview:`Am 20. März 1948 verließ die Sowjetunion den Alliierten Kontrollrat, weil sie sich durch
+1957 ging sie schließlich in der neuen deutschen Zentralbank auf: der Deutsche Bundesbank.`]},{id:"alliierter-kontrollrat-letzte-sitzung-1948-03-20",year:1948,dateLabel:"20. März 1948",side:"west",title:"Der regierende Alliierte Kontrollrat kommt das letzte Mal zusammen",createdBy:"Lorelei",positionPx:630,overview:`Am 20. März 1948 verließ die Sowjetunion den Alliierten Kontrollrat, weil sie sich durch
 westliche Planungen zur Zukunft Westdeutschlands übergangen fühlte. Dadurch zerbrach
 die gemeinsame Verwaltung Deutschlands durch die vier Siegermächte, ein wichtiger
 Schritt auf dem Weg zur Teilung Deutschlands und zur Verschärfung des Kalten Krieges.`,details:[`Vertiefung:
