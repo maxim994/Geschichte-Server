@@ -945,6 +945,149 @@ Bestandteil der bipolaren Weltordnung des Kalten Krieges.`
     ]
   },
   {
+    id: "zweiter-wirtschaftsrat-bizone-1948-02-02",
+    year: 1948,
+    dateLabel: "2. Februar 1948",
+    side: "west",
+    title: "Der zweite Wirtschaftsrat der Bizone tritt in Frankfurt am Main zusammen.",
+    createdBy: "Codex",
+    positionPx: 540,
+    overview:
+      `Am 2. Februar 1948 trat in Frankfurt der zweite Wirtschaftsrat der Bizone zusammen.
+Dieses Gremium mit 104 Vertretern, vor allem aus SPD und CDU/CSU, fungierte als
+wirtschaftliches Parlament der amerikanischen und britischen Besatzungszone und spielte
+eine wichtige Rolle beim Wiederaufbau und bei der Vorbereitung der späteren
+Bundesrepublik.`,
+    details: [
+      `Vertiefung:
+Der Wirtschaftsrat der Bizone war eine Art Vorläufer-Parlament für die westlichen Besatzungszonen. Er sollte wirtschaftliche Gesetze beschließen und die Verwaltung koordinieren.
+• Der zweite Wirtschaftsrat trat am 2. Februar 1948 zusammen.
+• Er hatte 104 Vertreter.
+• Die größten Parteien waren:
+• 40 Abgeordnete der Sozialdemokratische Partei Deutschlands (SPD)
+• 40 Abgeordnete der Christlich Demokratische Union Deutschlands / Christlich-Soziale Union (CDU/CSU)
+• Kleinere Parteien und Gruppen stellten die übrigen Vertreter.
+
+Bedeutung:
+Der Wirtschaftsrat war wichtig, weil er:
+• erste demokratische Entscheidungsstrukturen in den westlichen Besatzungszonen schuf,
+• wirtschaftliche Reformen vorbereitete,
+• den Weg zur Währungsreform von 1948 ebnete,
+• und ein politischer Vorläufer des späteren Bundestages wurde.`
+    ]
+  },
+  {
+    id: "nuernberg-prozess-sued-ost-generale-1948-02-19",
+    year: 1948,
+    dateLabel: "19. Februar 1948",
+    side: "west",
+    title: "In Nürnberg ergehen im Prozess gegen die so genannten Süd-Ost-Generale wegen Kriegsverbrechen",
+    createdBy: "Codex",
+    positionPx: 570,
+    overview:
+      `Am 19. Februar 1948 verkündete ein amerikanisches Militärgericht in Nürnberg im Prozess
+gegen mehrere deutsche Generäle („Südost-Generale“) die Urteile. Sie wurden wegen
+Kriegsverbrechen auf dem Balkan, vor allem Geiselerschießungen und Gewalt gegen
+Zivilisten, zu teilweise lebenslangen Haftstrafen verurteilt. Der Prozess war Teil der
+Nürnberger Nachfolgeprozesse nach dem Zweiten Weltkrieg.`,
+    details: [
+      `Vertiefung:
+Hintergrund:
+Nach dem Zweiten Weltkrieg führten die USA neben dem Hauptprozess gegen die führenden NS-Politiker weitere Gerichtsverfahren gegen Militärs, Ärzte, Juristen und Industrielle durch. Diese Verfahren nennt man Nürnberger Nachfolgeprozesse.
+Einer davon war der Geiselmord-Prozess (Hostages Trial), der sich gegen deutsche Generäle richtete, die in Südosteuropa eingesetzt waren, vor allem in Griechenland, Jugoslawien und Albanien.
+
+Worum es im Prozess ging:
+Den Angeklagten wurde vorgeworfen, dass sie:
+• Geiseln erschießen ließen, um Partisanenangriffe zu „bestrafen“,
+• Dörfer zerstören und Zivilisten töten ließen,
+• harte Vergeltungsmaßnahmen gegen die Bevölkerung anordneten.
+Typisch war z. B. die Praxis, nach einem Angriff von Partisanen Dutzende oder sogar Hunderte Zivilisten als „Vergeltung“ zu erschießen.
+
+Urteile vom 19. Februar 1948:
+Am 19. Februar wurden die Urteile verkündet. Mehrere Generäle erhielten langjährige Haftstrafen, einige wurden freigesprochen.
+Zu den bekanntesten Angeklagten gehörten u. a.:
+• Wilhelm List -> verurteilt zu lebenslanger Haft
+• Lothar Rendulic -> 20 Jahre Haft
+• Walter Kuntze -> lebenslange Haft
+• Hermann Foertsch -> freigesprochen
+Viele Strafen wurden allerdings in den frühen 1950er-Jahren aus politischen Gründen im beginnenden Kalten Krieg verkürzt oder die Verurteilten frühzeitig entlassen.
+
+Bedeutung:
+Der Prozess war wichtig, weil er:
+• zeigte, dass auch Militärführer für Kriegsverbrechen verantwortlich gemacht werden können,
+• die Erschießung von Geiseln und Vergeltungsaktionen gegen Zivilisten klar als`
+    ]
+  },
+  {
+    id: "bank-deutscher-laender-1948-03-01",
+    year: 1948,
+    dateLabel: "1. März 1948",
+    side: "west",
+    title: "In Frankfurt am Main nimmt die Bank deutscher Länder ihre Arbeit auf.",
+    createdBy: "Codex",
+    positionPx: 600,
+    overview:
+      `Am 1. März 1948 begann in Frankfurt am Main die Bank deutscher Länder ihre Arbeit. Sie
+fungierte als zentrale Notenbank der westlichen Besatzungszonen, organisierte das
+Geldsystem und bereitete die Währungsreform vor. Ab 25. März 1948 war sie auch für die
+französische Zone zuständig und wurde später zum Vorläufer der Deutschen Bundesbank.`,
+    details: [
+      `Vertiefung:
+Hintergrund:
+Nach 1945 war die deutsche Wirtschaft stark zerstört. Außerdem war das Geldsystem instabil, weil die alte Reichsmark kaum noch Vertrauen genoss.
+Die westlichen Besatzungsmächte – vor allem Vereinigte Staaten und Vereinigtes Königreich – wollten deshalb eine neue Institution schaffen, die:
+• das Bank- und Geldsystem organisiert,
+• die Währungsreform vorbereitet,
+• und den Wiederaufbau der Wirtschaft unterstützt.
+
+Aufgaben der Bank:
+Die Bank deutscher Länder fungierte praktisch als Zentralbank für die westlichen Besatzungszonen. Zu ihren wichtigsten Aufgaben gehörten:
+• Steuerung der Geldpolitik
+• Ausgabe und Kontrolle von Banknoten
+• Zusammenarbeit mit regionalen Landeszentralbanken
+• Vorbereitung der Währungsreform von 1948
+
+Zuständigkeitsbereich:
+Zunächst war die Bank nur für die sogenannte Bizone zuständig (die amerikanische und britische Besatzungszone).
+Am 25. März 1948 wurde ihre Zuständigkeit auch auf die Französische Besatzungszone in Deutschland ausgeweitet. Damit gab es erstmals wieder eine gemeinsame Geldorganisation für fast ganz Westdeutschland.
+
+Bedeutung:
+Die Bank deutscher Länder spielte eine zentrale Rolle beim wirtschaftlichen Wiederaufbau und war ein wichtiger Schritt hin zur späteren westdeutschen Staatsgründung.
+1957 ging sie schließlich in der neuen deutschen Zentralbank auf: der Deutsche Bundesbank.`
+    ]
+  },
+  {
+    id: "alliierter-kontrollrat-letzte-sitzung-1948-03-20",
+    year: 1948,
+    dateLabel: "20. März 1948",
+    side: "west",
+    title: "Der regierende Alliierte Kontrollrat kommt das letzte Mal zusammen",
+    createdBy: "Codex",
+    positionPx: 630,
+    overview:
+      `Am 20. März 1948 verließ die Sowjetunion den Alliierten Kontrollrat, weil sie sich durch
+westliche Planungen zur Zukunft Westdeutschlands übergangen fühlte. Dadurch zerbrach
+die gemeinsame Verwaltung Deutschlands durch die vier Siegermächte, ein wichtiger
+Schritt auf dem Weg zur Teilung Deutschlands und zur Verschärfung des Kalten Krieges.`,
+    details: [
+      `Vertiefung:
+Der Kontrollrat sollte Deutschland gemeinsam regieren und Entscheidungen einstimmig treffen. Grundlage dafür waren Vereinbarungen aus der Potsdamer Konferenz im Jahr 1945.
+
+20. März:
+Der sowjetische Vertreter, Wassili Danilowitsch Sokolowski, verließ die Sitzung aus Protest.
+Der Grund:
+Die Westmächte hatten auf der Londoner Sechsmächtekonferenz über die Zukunft der westlichen Besatzungszonen beraten – ohne ausreichende Einbindung der Sowjetunion.
+Dort wurde bereits über Schritte zur Gründung eines westdeutschen Staates diskutiert.
+Die Sowjetunion sah darin einen Bruch der gemeinsamen Viermächtepolitik und einen Widerspruch zu den Beschlüssen von Potsdam.
+
+Bedeutung:
+Der Auszug Sokolowskis hatte große Folgen:
+• Der Alliierte Kontrollrat war praktisch handlungsunfähig (weil Einstimmigkeit nötig war).
+• Die gemeinsame Verwaltung Deutschlands zerbrach.
+• Der Konflikt zwischen Ost und West verschärfte sich und wurde Teil des Kalter Krieg.`
+    ]
+  },
+  {
     id: "marshall-plan-1948-04-03",
     year: 1948,
     dateLabel: "3. April 1948",
